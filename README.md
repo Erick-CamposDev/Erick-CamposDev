@@ -1,6 +1,5 @@
-<!-- Banner ou saudação -->
 <h1 align="center">Olá, eu sou Erick Campos 👋</h1>
-<h3 align="center">🎓 Estudante universitário de Análise e Desenvolvimento de Sistemas | 👨‍💻 Aspirante a Full-Stack & GameDev</h3>
+<h2 align="center">🎓 Estudante universitário de Análise e Desenvolvimento de Sistemas | 👨‍💻 Aspirante a Full-Stack & GameDev</h2>
 
 ---
 
@@ -8,30 +7,26 @@
 - Tenho **19 anos**  
 - Sou estudante universitário de **ADS**  
 - Busco ser **Full-Stack** e trabalhar com **GameDev** em paralelo  
-- Atualmente atuo estudando **Front-end**
+- Atualmente atuo estudando **Frontend e Backend**
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</p>
 
+| Área | Tecnologias |
+|------|-------------|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js" />
+| **Backend** |<img src="https://skillicons.dev/icons?i=nodejs,ts,express" />
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git, github, postman, vscode" />
+| **Gamedev** | <img src="https://skillicons.dev/icons?i=godot" />
 ---
 
 ### 🧑‍💻 Em aprendizado
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+
+<p align="center>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,postgres" />
 </p>
+
 
 ---
 
