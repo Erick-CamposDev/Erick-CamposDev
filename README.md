@@ -17,13 +17,13 @@
 |------|-------------|
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js" />
 | **Backend** |<img src="https://skillicons.dev/icons?i=nodejs,ts,express" />
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git, github, postman, vscode" />
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 | **Gamedev** | <img src="https://skillicons.dev/icons?i=godot" />
 ---
 
 ### 🧑‍💻 Em aprendizado
 
-<p align="center>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite,postgres" />
 </p>
 
