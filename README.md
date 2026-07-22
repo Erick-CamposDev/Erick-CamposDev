@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍🎓 Sobre mim
-- Tenho **19 anos**  
+- Tenho **20 anos**  
 - Sou estudante universitário de **ADS**  
 - Busco ser **Full-Stack** e trabalhar com **GameDev** em paralelo  
 - Atualmente atuo estudando **Frontend e Backend**
